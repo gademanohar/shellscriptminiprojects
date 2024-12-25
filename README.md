@@ -1,0 +1,2 @@
+# shellscriptminiprojects
+shell scripting projects
